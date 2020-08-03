@@ -31,11 +31,12 @@ Material:
     m_Floats:
     - Displacement: 0.19
     - Vector1_5AA03419: 300
-    - _Depth: 7.75
-    - _emission: 2.66
+    - _Depth: 0.83
+    - _emission: 5.91
+    - _fadeIn: 1.8
     - _normalStrenght: 0.097
-    - _smoothness: 0.5
-    - _strenght: 0.12
+    - _smoothness: 0.638
+    - _strenght: 0.192
     m_Colors:
     - _deep: {r: 0.003070495, g: 0.44313523, b: 0.6509434, a: 1}
-    - _shallow: {r: 0.11863652, g: 0.6402491, b: 0.8113208, a: 1}
+    - _shallow: {r: 0.048727296, g: 0.54630345, b: 0.6886792, a: 1}
