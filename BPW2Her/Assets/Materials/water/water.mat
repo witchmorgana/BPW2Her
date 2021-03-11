@@ -33,7 +33,7 @@ Material:
     - Vector1_5AA03419: 300
     - _Depth: 0.83
     - _emission: 5.91
-    - _fadeIn: 1.8
+    - _fadeIn: 1
     - _normalStrenght: 0.097
     - _smoothness: 0.638
     - _strenght: 0.192
